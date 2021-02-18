@@ -1,8 +1,11 @@
 # CRUD-REST-API-using-Node-Express-MongoDB
 
+# Starting commond
+```npm init```
 # Install Express
-``` 
-npm init
-npm i express
-npm i mongodb
-npm i mongoose ```
+```npm i express```
+# Install MongoDB
+```npm i mongodb```
+# Install Mongoose
+```npm i mongoose ```
+
